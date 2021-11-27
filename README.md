@@ -10,7 +10,7 @@
 
 ## `GANTI SESSION NYA`
 
-[`Click Here`](https://github.com/HZ-33/bot-11/blob/v11/session.json
+[`Click Here`](https://github.com/HZ-33/bot-11/blob/v11/session.json)
 
 ## `SETTING`
 
