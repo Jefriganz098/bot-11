@@ -21,7 +21,7 @@
 
 ## ```GROUP SUPPORT```
 
-- [`Alphabot`](https://chat.whatsapp.com/HKj01pUAcGrDEWfMaKbqMc
+- [`Alphabot`](https://chat.whatsapp.com/HKj01pUAcGrDEWfMaKbqMc)
 
 
 ## `THANKS TO`
