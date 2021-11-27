@@ -8,9 +8,9 @@
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## `CHANGE SESSION`
+## `GANTI SESSION.JSON NYA PAKE PUNYA LU`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphab0t11/blob/master/session.json#L1)
+[`Click Here`](https://github.com/HZ-33/bot-11/blob/v11/session.json
 
 ## `SETTING`
 
