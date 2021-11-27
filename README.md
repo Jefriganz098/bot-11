@@ -21,9 +21,8 @@
 
 ## ```GROUP SUPPORT```
 
-- [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [`Alphabot`](https://chat.whatsapp.com/HKj01pUAcGrDEWfMaKbqMc
+
 
 ## `THANKS TO`
 
