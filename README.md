@@ -8,7 +8,7 @@
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## `GANTI SESSION NYA`
+## `GANTI SESSION NYA JADI SESSION PUNYA LU`
 
 [`Click Here`](https://github.com/HZ-33/bot-11/blob/v11/session.json)
 
